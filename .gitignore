@@ -1,0 +1,8 @@
+/Backup
+*_chat.txt
+*.csv
+*.json
+*.jsonl
+# User-specific stuff
+/.idea
+
